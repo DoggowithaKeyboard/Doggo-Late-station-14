@@ -8,3 +8,14 @@
     sprite: _LateStation/Clothing/Head/Hoods/Coat/hoodiriscoat.rsi
   - type: Clothing
     sprite: _LateStation/Clothing/Head/Hoods/Coat/hoodiriscoat.rsi
+
+- type: entity
+  parent: ClothingHeadHatHoodWinterBase
+  id: ClothingHeadHatHoodBringsHoodie
+  categories: [ HideSpawnMenu ]
+  name: brings hood
+  components:
+  - type: Sprite
+    sprite: _LateStation/Clothing/Head/Hoods/Coat/hoodbringshoodie.rsi
+  - type: Clothing
+    sprite: _LateStation/Clothing/Head/Hoods/Coat/hoodbringshoodie.rsi
